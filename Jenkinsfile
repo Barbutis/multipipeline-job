@@ -10,7 +10,7 @@ pipeline {
       stage('Begin'){
             steps {
                 script{
-                    println("Branch 1")
+                    println("Branch One")
                 }
             }
         }
